@@ -2,7 +2,7 @@
 - Curso: Formação CHATGPT for DEVS
 - Desafio de projeto: integrando o Chatgpt com Node e React
 - Instrutor: Felipe Aguiar
-- Instruendo: Leonardo Silva
+- Aluno: Leonardo Silva
 
 
 # Entendendo o Desafio
