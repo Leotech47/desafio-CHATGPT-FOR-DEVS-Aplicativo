@@ -28,6 +28,6 @@ Link da plataforma da API para pesquisar documentação: https://openai.com/blog
 
  
 
-Replique os ensiamentos do Expert Felipe Aguiar e personalize o seu projeto com a sua identidade. 
+Replique os ensinamentos do Expert Felipe Aguiar e personalize o seu projeto com a sua identidade. 
  
 Bons estudos 😉
