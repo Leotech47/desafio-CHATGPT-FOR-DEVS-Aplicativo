@@ -1,4 +1,4 @@
-O projeto "node-react-chatgpt-clone" no GitHub é um clone fullstack do ChatGPT, utilizando uma integração com o algoritmo do OpenAI. Ele é dividido em duas partes principais: o **Back-end** e o **Front-end**.
+# O projeto "node-react-chatgpt-clone" no GitHub é um clone fullstack do ChatGPT, utilizando uma integração com o algoritmo do OpenAI. Ele é dividido em duas partes principais: o **Back-end** e o **Front-end**.
 
 ### **Back-End**:
 - **Tecnologias usadas**: Node.js, Express, JavaScript, CORS.
